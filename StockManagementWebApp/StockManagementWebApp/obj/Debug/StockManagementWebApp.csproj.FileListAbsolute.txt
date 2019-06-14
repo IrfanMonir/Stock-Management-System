@@ -1,0 +1,42 @@
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 2\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 4\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 6( Without design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 7( With Simple design)\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 8( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll.config
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\bin\StockManagementWebApp.pdb
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.dll
+E:\BITM\Project\Stock Management System\Code\Stock management - version 9( With Simple design) 7 story\StockManagementWebApp\StockManagementWebApp\obj\Debug\StockManagementWebApp.pdb
